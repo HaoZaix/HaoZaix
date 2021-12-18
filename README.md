@@ -4,7 +4,7 @@
 - Im Interesting in Software ene 💪
 - Im Friendly🙊
 - Python🌟🌟
-- Still Learning Js📘
+- Still Learning 📘
 -
 <!---
 HaoZaix/HaoZaix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
